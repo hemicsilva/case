@@ -1,0 +1,9 @@
+# Dependências adicionais para reprodução dos experimentos de estudo
+# Para instalar: pip install -r study_cases/requirements.txt
+
+# Estudo 01: Bi-Encoder Multilíngue Denso
+sentence-transformers>=2.2.2
+torch>=2.0.0
+
+# Estudo 02: BM25Okapi Probabilístico
+rank-bm25>=0.2.2
